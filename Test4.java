@@ -6,7 +6,7 @@ public class Test4 {
 
         int newarr[] = new int[arr.length + 1];
 
-        for (int i = 0; i < newarr.l-ength; i++) {
+        for (int i = 0; i < newarr.length; i++) {
             if (i < insertIndex) {
                 newarr[i] = arr[i];
             } else if (i == insertIndex) {
