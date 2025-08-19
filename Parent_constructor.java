@@ -9,7 +9,7 @@ public  class Parent_constructor {
             System.out.println("this is child class: " +name);
          }
     }
-    public class Main {
+    public class Main1 {
         public static void main(String[] args) {
             Child c=new Child("saniya");
         
